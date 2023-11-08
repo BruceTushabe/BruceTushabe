@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Tushabe Bruce
 
 
-- 🔭 I love coffee, Java, Python, and Javascript-- ok let's basically every that helps me achieve goals.
+- 🔭 I love coffee, Python, Java,- Javascript-- ok let's say basically everything that helps me achieve goals.
 - harnessing technology to empower ordinary people to thrive.
 - 📫 How to reach me: brucetushabe@gmail.com
 - My favourite Quote
